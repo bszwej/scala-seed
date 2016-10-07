@@ -1,7 +1,7 @@
 # Scala seed
-My seed project for Scala development.
+My seed project for Scala development. 
 
-I use it whenever I want to get quickly start working on Scala stuff.
+I use it whenever I want to quickly start working on Scala stuff.
 
 ## Overview
 
